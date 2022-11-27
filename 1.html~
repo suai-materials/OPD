@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 <meta charset="utf-8"/>
 <title>Образовательная тестирующая система</title>
-<meta name="author" content=""/>
+<meta name="author" content="Вася Панков 021"/>
 <meta name="description" content=""/>
 <meta name="keywords" content=""/>
 <style type="text/css">
@@ -29,40 +29,28 @@
 <div class="reveal">
 <div class="slides">
 <section id="sec-title-slide"><h1 class="title">Образовательная тестирующая система</h1><p class="subtitle"></p>
-<p class="date">Created: 2022-11-21 Mon 11:40</p>
+<h2 class="author">Вася Панков 021</h2><p class="date">Created: 2022-11-27 Sun 19:39</p>
 </section>
 <section id="sec-table-of-contents"><div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>&#1057;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1085;&#1080;&#1077;</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-orgb5b9bf3">1. Описание вида деятельности для получения прибыли.</a></li>
-<li><a href="#/slide-orgab4adf0">2. Определение потребительского сектора</a></li>
-<li><a href="#/slide-orge1c97eb">3. Процессы</a></li>
-<li><a href="#/slide-org4b3b694">4. Технологии</a></li>
-<li><a href="#/slide-org2444c11">5. Преимущества</a></li>
-<li><a href="#/slide-org073b8c8">6. Внешняя среда организации</a>
-<ul>
-<li><a href="#/slide-orgb2de17d">6.1. Возможности</a>
-<ul>
-<li><a href="#/slide-org573d420">6.1.1. Факторы спроса</a></li>
-<li><a href="#/slide-orgcaf7fb8">6.1.2. Факторы конкуренции</a></li>
-</ul>
-</li>
-<li><a href="#/slide-orgaab1391">6.2. Угрозы</a></li>
-<li><a href="#/slide-orgfe081a4">6.3. Сильные стороны</a></li>
-<li><a href="#/slide-orgeda50d5">6.4. Слабости</a></li>
-</ul>
-</li>
+<li><a href="#/slide-org6dc340b">Описание вида деятельности для получения прибыли.</a></li>
+<li><a href="#/slide-org3dff9f5">Определение потребительского сектора</a></li>
+<li><a href="#/slide-org549e327">Процессы</a></li>
+<li><a href="#/slide-orgc25fcb6">Технологии</a></li>
+<li><a href="#/slide-org5fbac60">Преимущества</a></li>
+<li><a href="#/slide-org1117009">Внешняя среда организации</a></li>
+<li><a href="#/slide-org55af278">Внутренняя среда организации</a></li>
 </ul>
 </div>
 </div>
 </section>
-
 
 
 <section>
-<section id="slide-orgb5b9bf3">
-<h2 id="orgb5b9bf3"><span class="section-number-2">1</span> Описание вида деятельности для получения прибыли.</h2>
+<section id="slide-org6dc340b">
+<h2 id="org6dc340b">Описание вида деятельности для получения прибыли.</h2>
 <ul>
 <li>Веб приложение, которое фактически представляет образовательную среду</li>
 <li>Имеются возможности по созданию тестов, размещению материалов и другие новшества,</li>
@@ -75,8 +63,8 @@
 </section>
 </section>
 <section>
-<section id="slide-orgab4adf0">
-<h2 id="orgab4adf0"><span class="section-number-2">2</span> Определение потребительского сектора</h2>
+<section id="slide-org3dff9f5">
+<h2 id="org3dff9f5">Определение потребительского сектора</h2>
 
 <div class="figure">
 <p><img src="./1.png" alt="1.png" />
@@ -86,10 +74,10 @@
 </section>
 </section>
 <section>
-<section id="slide-orge1c97eb">
-<h2 id="orge1c97eb"><span class="section-number-2">3</span> Процессы</h2>
+<section id="slide-org549e327">
+<h2 id="org549e327">Процессы</h2>
 </section>
-<section id="slide-orge1c97eb-split">
+<section id="slide-org549e327-split">
 <ul>
 <li>Опрос преподавателей разных предметов о задачах/тестах, которые им не хватает о предложениях к предложенной концепции</li>
 <li>Создание дизайна приложения</li>
@@ -97,7 +85,7 @@
 
 </ul>
 </section>
-<section id="slide-orge1c97eb-split">
+<section id="slide-org549e327-split">
 <ul>
 <li>Создание мало функциональной версии приложения</li>
 <li>Дальнейшая поддержка, то есть добавление новых тестов и различных идей, которые могли быть предложены или придуманы самостоятельно</li>
@@ -108,8 +96,8 @@
 </section>
 </section>
 <section>
-<section id="slide-org4b3b694">
-<h2 id="org4b3b694"><span class="section-number-2">4</span> Технологии</h2>
+<section id="slide-orgc25fcb6">
+<h2 id="orgc25fcb6">Технологии</h2>
 
 <div class="figure">
 <p><img src="puml.png" alt="puml.png" />
@@ -118,8 +106,8 @@
 </section>
 </section>
 <section>
-<section id="slide-org2444c11">
-<h2 id="org2444c11"><span class="section-number-2">5</span> Преимущества</h2>
+<section id="slide-org5fbac60">
+<h2 id="org5fbac60">Преимущества</h2>
 <p>
 Преимущества перед другими аналогами: в современности интерфейса,
 больших возможностях и сотрудничество с конечным потребителем.
@@ -127,43 +115,124 @@
 </section>
 </section>
 <section>
-<section id="slide-org073b8c8">
-<h2 id="org073b8c8"><span class="section-number-2">6</span> Внешняя среда организации</h2>
-<div class="outline-text-2" id="text-6">
+<section id="slide-org1117009">
+<h2 id="org1117009">Внешняя среда организации</h2>
+<div class="outline-text-2" id="text-org1117009">
 </div>
 </section>
-<section id="slide-orgb2de17d">
-<h3 id="orgb2de17d"><span class="section-number-3">6.1</span> Возможности</h3>
-<div class="outline-text-3" id="text-6-1">
-</div>
-</section>
-<section id="slide-org573d420">
-<h4 id="org573d420"><span class="section-number-4">6.1.1</span> Факторы спроса</h4>
+<section id="slide-org4c4c067">
+<h3 id="org4c4c067">Факторы спроса</h3>
 <p>
 Нет системы, которая обеспечивает подобный функционал и при правильном позиционировании, 
 можно добиться огромного спроса с множества образовательных мероприятиях
 </p>
 
 </section>
-<section id="slide-orgcaf7fb8">
-<h4 id="orgcaf7fb8"><span class="section-number-4">6.1.2</span> Факторы конкуренции</h4>
+<section id="slide-org332eafd">
+<h3 id="org332eafd">Факторы конкуренции</h3>
+<p>
+Как было сказано, выше, сильных конкурентов мало или их нет.
+</p>
+
+</section>
+<section id="slide-org9227e61">
+<h3 id="org9227e61">Экономические факторы</h3>
+<p>
+Нужна поддержка образовательных организаций от правительства.
+</p>
+
+</section>
+<section id="slide-org4fcd0f7">
+<h3 id="org4fcd0f7">Политические и правовые факторы</h3>
+<p>
+Не влияют
+</p>
+
+</section>
+<section id="slide-org297ad3c">
+<h3 id="org297ad3c">Научно-технические факторы</h3>
+<p>
+При развитии компьютеров, наша система может развиваться лучше и работать быстрее, без сильных трудозатрат на оптимизацию.
+</p>
+
+</section>
+<section id="slide-org691b6da">
+<h3 id="org691b6da">Социально-демографические факторы</h3>
+<p>
+Количество учащейся части населения влияет на распрастранение нашей программы.
+</p>
+
+</section>
+<section id="slide-org5ffb0f8">
+<h3 id="org5ffb0f8">Социально-культурные факторы</h3>
+<p>
+Не влияют
+</p>
+
+</section>
+<section id="slide-orgb488394">
+<h3 id="orgb488394">Природные и экологические факторы</h3>
+<p>
+Может влиять в негативную, сторону, из-за неэкологичном производстве компьютеров и их составляющих.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-org55af278">
+<h2 id="org55af278">Внутренняя среда организации</h2>
+<div class="outline-text-2" id="text-org55af278">
+</div>
+</section>
+<section id="slide-org4dc709c">
+<h3 id="org4dc709c">Организация</h3>
+<p>
+Наша IT, компания довольно небольшая, но при этом обладает, хоть небольшиим, но очень дружным
+и приятным коллективом.
+</p>
+
+</section>
+<section id="slide-org24d33eb">
+<h3 id="org24d33eb">Производство</h3>
+<p>
+Так как мы не произоводим, реальный продукт, а цифровой, производство этого продукта, оценивается,
+лишь стоимостью наших компьютеров.
+</p>
+
+</section>
+<section id="slide-org24bbf5b">
+<h3 id="org24bbf5b">Финансы</h3>
+<p>
+Мы имеем некий стартовый капитал, для начала проектов, но требуем поддержки со стороны инвесторов.
+</p>
+
+</section>
+<section id="slide-orgc6ccc73">
+<h3 id="orgc6ccc73">Инновации</h3>
+<p>
+Мы пользуемся системой разработки Confluence Jira, которая включает в себя такие понятия как
+Agile и Kanban, а также разрабатываем на последней версии ядра Linux и языка программирования 
+Kotlin.
+</p>
+
+</section>
+<section id="slide-orgb55b169">
+<h3 id="orgb55b169">Маркетинг</h3>
+<p>
+Мы разрабатываем очень стабильные и быстроразвивающиеся приложения, которые помогают людям 
+во всей стране.
+</p>
+
 <div class="org-center">
 <p>
-БЛА<sub>БЛА</sub>
+<i>Работа IT-компании pank.su, способствует развитию образования в нашей стране.</i>
 </p>
 </div>
-
-</section>
-<section id="slide-orgaab1391">
-<h3 id="orgaab1391"><span class="section-number-3">6.2</span> Угрозы</h3>
-
-</section>
-<section id="slide-orgfe081a4">
-<h3 id="orgfe081a4"><span class="section-number-3">6.3</span> Сильные стороны</h3>
-
-</section>
-<section id="slide-orgeda50d5">
-<h3 id="orgeda50d5"><span class="section-number-3">6.4</span> Слабости</h3>
+<blockquote >
+<p>
+&#x2013; Гайкин Кирилл, будущий министр образования.
+</p>
+</blockquote>
 </section>
 </section>
 </div>
@@ -174,6 +243,7 @@
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
+transition: 'cube',
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
